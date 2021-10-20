@@ -1,2 +1,2 @@
-Dies ist eine Zeile
-und dies ist auch eine Zeile HIER SCHREIBE ICH ETWAS
+Dies ist eine Zeile MIT EINER ÄNDERUNG!
+und dies ist auch eine Zeile HIER SCHREIBE ICH ETWAS --- aber hacker2 weiß es besser!
